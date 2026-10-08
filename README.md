@@ -1,10 +1,31 @@
 # Infosys AI Knowledge Assistant (Enterprise GPT)
 
+> **Soumyakanta Mishra's repository copy:** This repository, [Infosys-AI-Model](https://github.com/darkprinceindia/Infosys-AI-Model), is the personal copy maintained by [Soumyakanta Mishra](https://github.com/darkprinceindia) of the team project originally published at [pulkitn-analytics/infosys-ai-knowledge-assistant](https://github.com/pulkitn-analytics/infosys-ai-knowledge-assistant). The original project credits and Git history are preserved.
+
 An enterprise knowledge assistant that enables employees to search approved organizational documents, retrieve relevant evidence, generate grounded answers with citations, and access selected operational tools through a controlled AI workflow.
 
 The project combines document ingestion, vector search, role-based access control, PostgreSQL-backed application data, MCP-style operational tool integration, grounded response generation, citations, feedback, and analytics.
 
 > **Important:** The documents included for demonstration/testing may contain synthetic project data. They are not official Infosys corporate policies, HR policies, security policies, or business commitments.
+
+---
+
+## Project Team and Credits
+
+The project presentation lists the following team members:
+
+- M.S. Pavan Shankar
+- Chandra Akash Kiran
+- Shruti Vishwas Deshpande
+- Soumyakanta Mishra
+- Sayan Modak
+- Pulkit Narang
+- Subhansu Bose
+- Sanket Arun Patil
+
+The original repository's Git history also records contributions by **Avinash Sahu**.
+
+**Owner of this repository copy:** Soumyakanta Mishra ([darkprinceindia](https://github.com/darkprinceindia)).
 
 ---
 
@@ -469,8 +490,8 @@ The repository specifies Python through:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/pulkitn-analytics/infosys-ai-knowledge-assistant.git
-cd infosys-ai-knowledge-assistant
+git clone https://github.com/darkprinceindia/Infosys-AI-Model.git
+cd Infosys-AI-Model
 ```
 
 ### Backend Setup
@@ -888,9 +909,13 @@ Current implementation includes:
 
 ## 23. Repository
 
-GitHub:
+**This copy - Soumyakanta Mishra:**
 
-https://github.com/pulkitn-analytics/infosys-ai-knowledge-assistant
+[darkprinceindia/Infosys-AI-Model](https://github.com/darkprinceindia/Infosys-AI-Model)
+
+**Original project repository:**
+
+[pulkitn-analytics/infosys-ai-knowledge-assistant](https://github.com/pulkitn-analytics/infosys-ai-knowledge-assistant)
 
 Live application:
 
