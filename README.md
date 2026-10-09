@@ -6,6 +6,11 @@ An enterprise knowledge assistant that enables employees to search approved orga
 
 The project combines document ingestion, vector search, role-based access control, PostgreSQL-backed application data, MCP-style operational tool integration, grounded response generation, citations, feedback, and analytics.
 
+## Live Project and Video Demo
+
+- **Deployed project:** [Open the live application](https://infosys-ai-knowledge-assistant.vercel.app)
+- **Video demo guide:** [Watch the video on Google Drive](https://drive.google.com/file/d/1rKHL67LYG4nW6Zy0VglYLMFvpH8jTVny/view?usp=sharing)
+
 > **Important:** The documents included for demonstration/testing may contain synthetic project data. They are not official Infosys corporate policies, HR policies, security policies, or business commitments.
 
 ---
